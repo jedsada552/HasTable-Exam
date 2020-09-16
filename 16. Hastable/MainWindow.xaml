@@ -1,0 +1,17 @@
+﻿<Window x:Class="_16._Hastable.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_16._Hastable"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="AddBtn" Content="Add" HorizontalAlignment="Left" Margin="90,243,0,0" VerticalAlignment="Top" Height="35" Width="145" Click="AddBtn_Click"/>
+        <Button x:Name="RemoveBtn" Content="Remove" HorizontalAlignment="Center" Margin="0,243,0,0" VerticalAlignment="Top" Height="35" Width="144" Click="RemoveBtn_Click"/>
+        <Button x:Name="ShowBtn" Content="Show" HorizontalAlignment="Left" Margin="553,243,0,0" VerticalAlignment="Top" Height="35" Width="144" Click="ShowBtn_Click"/>
+        <TextBox x:Name="Value_Box" HorizontalAlignment="Left" Margin="90,181,0,0" Text="Value" TextWrapping="Wrap" VerticalAlignment="Top" Width="607" Height="42" FontSize="22"/>
+        <TextBox x:Name="KeyBox" HorizontalAlignment="Left" Margin="90,109,0,0" Text="Key" TextWrapping="Wrap" VerticalAlignment="Top" Width="607" Height="42" FontSize="22"/>
+
+    </Grid>
+</Window>

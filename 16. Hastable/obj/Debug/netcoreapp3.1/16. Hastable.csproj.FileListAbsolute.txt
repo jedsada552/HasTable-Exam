@@ -1,0 +1,19 @@
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\bin\Debug\netcoreapp3.1\16. Hastable.exe
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\bin\Debug\netcoreapp3.1\16. Hastable.deps.json
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\bin\Debug\netcoreapp3.1\16. Hastable.runtimeconfig.json
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\bin\Debug\netcoreapp3.1\16. Hastable.runtimeconfig.dev.json
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\bin\Debug\netcoreapp3.1\16. Hastable.dll
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\bin\Debug\netcoreapp3.1\16. Hastable.pdb
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.csprojAssemblyReference.cache
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable_MarkupCompile.cache
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable_MarkupCompile.lref
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.g.resources
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.AssemblyInfoInputs.cache
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.AssemblyInfo.cs
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.csproj.CoreCompileInputs.cache
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.dll
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.pdb
+C:\Users\ACE03\source\repos\16. Hastable\16. Hastable\obj\Debug\netcoreapp3.1\16. Hastable.genruntimeconfig.cache
